@@ -1,0 +1,66 @@
+* {
+	font-family: 'Girassol', cursive;
+	font-weight: 100;
+	font-size: 40px;
+}
+
+body {
+	background-color: black;
+}
+
+.raziel1 {
+	margin: auto;
+	margin-top: 50px;
+	width: 271px;
+	height: 223px;
+	border: 4px solid red;
+	background-color: gray;
+	overflow: hidden;
+}
+
+.damian {
+	width: 1000px;
+	position: relative;
+	top: 271px;
+	left: 223px;
+	outline: 2px solid blue;
+	transition: all .40s;
+}
+
+.raziel1:hover > img{
+	width: 1000px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	outline: 2px solid blue;
+}
+h1 {
+	color: red;
+	text-align: center;
+}
+
+.raziel2 {
+	color: red;
+	margin: auto;
+	margin-top: 50px;
+	width: 550px;
+	height: 60px;
+	border: 4px solid red;
+	display: block;
+	
+}
+p {
+	color: red;
+	font-size: 35px;
+	text-align: center;
+}
+
+.gonzalo {
+	color: red;
+	margin: auto;
+	margin-top: 50px;
+	width: 614px;
+	height: 50px;
+	border: 4px solid red;
+	display: block;
+}
